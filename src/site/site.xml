@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/DECORATION/1.4.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/DECORATION/1.4.0 http://maven.apache.org/xsd/decoration-1.4.0.xsd">
+	<bannerLeft>
+		<name>Banner</name>
+		<src>images/logo.png</src>
+		<href>https://github.com/skot92/Negyet-egy-sorba</href>
+	</bannerLeft>
+	<body>
+		<links>
+			<item name="Github" href="https://github.com/skot92/Negyet-egy-sorba"/>
+		</links>
+		<menu name="Description">
+			<item name="Game" href="game.html"/>
+		</menu>
+		<menu name="Project">
+			<item name="Info" href="info.html"/>
+		</menu>
+		<menu ref="reports"/>
+	</body>
+</project>
